@@ -1,1 +1,3 @@
 Drive link 4ht sem: https://drive.google.com/drive/folders/15hGcA6rhXZuJ63ph-JHv422Yg3WOaXvz?usp=sharing
+
+import java.util.; class Graph<T> ( private LinkedList<T>[] adjlist; private int vertices; vertices) Graph(int this vertices = vertices; adjList = new Linkedlist[vertices]; for (int = 0; i < vertices; i++) ( adjList[1] = new LinkedList<>(); void addEdge(int src, T des) { if (src && src < vertices) adjList[src].add(des); else throw new IndexOutofBoundsExceptian("Vertexa }} FeManac void printAdjlist() for (int 0; i < vertices; 1++) ( System.out.print("Vertex + i+ "-> "); for (T vertex: adjList[1]) { System.out.print(vertex +); System.out.printin();
